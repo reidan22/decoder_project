@@ -52,7 +52,7 @@ From the example above, the division of data is described below:
 ##### Sample
 [Example 1]
 INPUT: ```2202abc_sPc%EPQad_2022622_NSjaSn9jmqEOOX11lqYdAR_2029922```
-OUTPUT:
+<br/>OUTPUT:
 | ID | CUSTOMER_NAME | YEAR_OPENED | MONTH_OPENED | DATE_OPENED | ITEM_ID | ITEM_CODE | YEAR_CLOSED | MONTH_CLOSED | DATE_CLOSED | FLAG |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2202abc | Dan Pablo | 2022 | June | 02 | NSja-Sn | 9jmq-EOOX-11lq-YdAR | 2029 | September | 22 | False |
