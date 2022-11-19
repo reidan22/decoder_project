@@ -68,3 +68,5 @@ OUTPUT:
 Save file as .csv files to individual directory
 Example:
 ```./decoder_project/devs/<dev_name>/output_10000.csv```
+
+Check ```./decoder_project/src/sample_output.csv``` for the expected .csv output format
