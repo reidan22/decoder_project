@@ -55,7 +55,7 @@ INPUT: ```2202abc_sPc%EPQad_2022622_NSjaSn9jmqEOOX11lqYdAR_2029922```
 <br/>OUTPUT:
 | ID | CUSTOMER_NAME | YEAR_OPENED | MONTH_OPENED | DATE_OPENED | ITEM_ID | ITEM_CODE | YEAR_CLOSED | MONTH_CLOSED | DATE_CLOSED | FLAG |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2202abc | Dan Pablo | 2022 | June | 02 | NSja-Sn | 9jmq-EOOX-11lq-YdAR | 2029 | September | 22 | False |
+| 2202abc | Dan Pablo | 2022 | June | 22 | NSja-Sn | 9jmq-EOOX-11lq-YdAR | 2029 | September | 22 | False |
 
 [Example 2]
 INPUT: ```6778799bd_John%Seidel_20021017_5BA5wQrdv4nFMSQ7XmcbRP_2008510```
