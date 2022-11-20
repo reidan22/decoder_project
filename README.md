@@ -34,7 +34,7 @@ The data is separated by the character "_" (underscore)
 - __sPc%EPQad__ - This string is the ```CUSTOMER_NAME``` encoded. When decoded this is equivalent to ```Dan Pablo```. The way to decode is listed below:
   - For each of the ```character``` in the string, do the conditions below
   - Replace ```%``` into ```" " (space)``` differentiating the first name and the surname
-  - Using the ```ID```, get its ```modulus 16 + 1```. Then add it to the index of the character in the string from this key ```abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ```
+  - Using the ```ID```, get its ```modulus 26 + 1```. Then add it to the index of the character in the string from this key ```abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ```
   - Then switch the case setting of the character ```(lowercase -> uppercase and uppercase -> lowercase)```
 - __202262__ - This string holds the following data:
   - _2022_ - Year for ```YEAR_OPENED```
