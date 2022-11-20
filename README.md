@@ -47,7 +47,7 @@ The data is separated by the character "_" (underscore)
   - _2029_ - Year for ```YEAR_CLOSED```
   - _11_ - Month for ```MONTH_CLOSED```; Note that for months January-September, only 1 character is used; October-December use 2 characters
   - _22_ - Date for ```DATE_CLOSED```; Note that for days 1-9, only 1 characters is used; 10-31 use 2 characters.
-  - For the ```FLAG``` column, simply check if the encoded name and the decoded name are similar (besides the character %)
+  - For the ```FLAG``` column, simply check if the encoded name and the decoded name are similar (besides the character %) and/or the data has questionable information and mark it as ```True``` otherwise default with ```False```
 ---
 ##### Sample
 [Example 1]
